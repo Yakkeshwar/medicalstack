@@ -13,43 +13,45 @@ B.Sc. in Computer Science and Engineering (CSE) - Software Engineering Project -
 
 - **Users:** Patient, physician, hospital staff, lab technician, and chemist
 
-### Patient
-      1)  Search multiple Hospital → Department List → Search for Doctors
-      2)  Doctor Profile → Book Appointment
-      3)  Pay Appointment + Mail Confirmation 
-      4)  Search all Doctors in all hospitals
-      5)  Chat with appointed Doctor
-      6)  View Prescription, Download Prescription (PDF)
-      7)  Choose which tests to pay (Cart System, payment + mail confirmation)
-      8)  View Report, Download Report (PDF)
-      9)  Give Doctor Review
-      10) Search for Medicines in Medical Shop (Pharmacy)
-      11) Select which medicines to purchase (Cart system), pay total amount for medicines (payment + mail confirmation)
-      
 ### Doctor 
-      1)  Doctor Profile Settings (Add More feature)
-      2)  Search multiple Hospital → Doctor register to hospital + upload certificate
-      3)  (Once registered by admin) accept or reject patients appointment (mail confirmation send to patient)
-      4)  Search patient profile → Create and view Prescription, view report
-      5)  Chat with appointed Patient
+     1) The Add More feature in the doctor profile settings
+      2) Find numerous hospitals, register a doctor, and upload their certificate.
+      3) Accept or reject the patient's appointment (after admin has registered them; patient will receive a mail confirmation)
+      4) View report, create prescriptions, and search patient profiles
+      5) Consult with designated Patient
+### Patient
+      1) Lookup physicians using various hospitals' department lists.
+      2) Physician Profile Schedule Appointment
+      A payment appointment including a mail confirmation. 
+      4) Find all physicians in all hospitals
+      5) Speak with the assigned physician
+      6) See the prescription and download it (PDF)
+      7) Select the tests you want to pay for (Cart System, payment + mail confirmation).
+      8) Access the Report and Download It (PDF)
+      9) Consult a doctor
+      10) Browse the Pharmacy to Find Medicines
+      11) Choose which medications to buy using the shopping cart system, then pay the whole amount (payment + mail confirmation).
+      
+
       
 ### Hospital Admin
-      1)  Admin Dashboard
-      2)  Accept or reject doctor registration (view doctor profile to see details)
-      3)  CRUD Hospitals (Add more)
-      4)  View Hospital List → CRUD Departments within hospital
-      5)  CRUD Lab Worker
-      6)  CRUD Pharmacist
-
+      1) Admin Dashboard
+      2) Approve or deny the registration of doctors (see the doctor's profile for further information).
+      3) CRUD Hospitals
+      4) View the Hospital List and CRUD Departments
+      5) CRUD Lab Assistant
+      6) Pharmacist CRUD
+      
+ ### Pharmacist
+      1)  Pharmacist Dashboard
+      2)  CRUD Medicines
+      3)  Search Medicine
 ### Lab worker
       1)  Lab Worker Dashboard
       2)  Create Report for patient.
       3)  Create Tests for hospitals, View Tests
 
-### Pharmacist
-      1)  Pharmacist Dashboard
-      2)  CRUD Medicines
-      3)  Search Medicine
+
 
 
 
