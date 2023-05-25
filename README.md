@@ -1,7 +1,7 @@
 # HealthStack-System
 
 - A platform with an online component for many hospitals. ability for all hospitals to access, track, and share a patient's medical records. Additionally, patients can use the internet to schedule appointments, view information about various hospitals and doctors. Pay for lab tests online and interact with designated doctors.
-B.Sc. in Computer Science and Engineering (CSE) - Software Engineering Project - Django Application
+B.tech-Artificial intelligence and data science  - Software Engineering Project - Django Application
 
 ## Tools used:
       1) Front-end: HTML, CSS, Boostrap, Javascript
